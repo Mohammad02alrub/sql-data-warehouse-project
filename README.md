@@ -134,8 +134,9 @@ You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
 
-Hi! I'm **Mohammad Abu Alrub**, a Data Analyst passionate about SQL, data engineering, and analytics.  
-I build real-world data projects to improve my skills and help others learn through practical examples.
+Hi! I'm Mohammad Abu Alrub — a data lover who enjoys turning messy data into something clear, useful, and impactful.
+I like creating hands-on projects that reflect how I think, learn, and solve problems.
+Every project I build helps me grow as an analyst and share what I learn with others.
 
 Let’s connect on LinkedIn!  
 👉 **https://www.linkedin.com/in/mohammad-abo-al-rub-057a51243/**
