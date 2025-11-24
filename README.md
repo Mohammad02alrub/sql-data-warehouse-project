@@ -49,7 +49,7 @@ All tools in this project are free:
 - SQL Server Express  
 - SQL Server Management Studio (SSMS)  
 - GitHub  
-- DrawIO
+- Draw.io
 - Notion 
 - CSV datasets  
 
