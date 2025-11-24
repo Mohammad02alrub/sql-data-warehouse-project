@@ -9,6 +9,8 @@ This project demonstrates a complete end-to-end data warehousing and analytics s
 
 This project follows the **Medallion Architecture** consisting of three layers:
 
+![Data Warehouse Architecture](images/dwh_architecture.png)
+
 ### 🥉 Bronze Layer  
 - Stores raw data directly from CSV files  
 - No transformations applied  
