@@ -98,7 +98,7 @@ data-warehouse-project/
 │   ├── data_architecture.drawio        # Draw.io file showing the project's architecture
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
 │   ├── data_flow.drawio                # Draw.io file for the data flow diagram
-│   ├── data_model.drawio               # Draw.io file for data models (star schema)
+│   ├── data_model.drawio               # Draw.io file for data model (star schema)
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
