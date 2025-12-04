@@ -1,4 +1,4 @@
-# 📦 Data Warehouse and Analytics Project
+# 📦 Data Warehouse Project
 
 Welcome to the **SQL Data Warehouse Project** repository!   
 This project demonstrates a complete end-to-end SQL data warehouse built using the Medallion Architecture. It covers the full workflow — ingesting raw ERP/CRM data, cleansing and transforming it through structured ETL pipelines, and modeling it into an analytics-ready star schema. The project showcases strong skills in **SQL, Data Engineering, ETL processes, and analytical data modeling**.
